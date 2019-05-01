@@ -5,7 +5,7 @@ public class Point {
     private double y = 0.0f;
 
     public Point(){
-        // default constr
+        // default constructor
     }
 
     public Point ( double x, double y ){
